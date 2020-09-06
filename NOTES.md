@@ -1,0 +1,5 @@
+* [Issue](https://developer.github.com/v3/issues/#create-an-issue)
+* [Octokit](https://octokit.github.io/rest.js/v18)
+* [Toolkit](https://github.com/actions/toolkit)
+* [request-promise](https://github.com/request/request-promise/blob/master/README.md)
+* [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
