@@ -3,3 +3,4 @@
 * [Toolkit](https://github.com/actions/toolkit)
 * [request-promise](https://github.com/request/request-promise/blob/master/README.md)
 * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [Update README](https://dev.to/curtiscodes/self-updating-github-profile-readme-with-javascript-lhm)
